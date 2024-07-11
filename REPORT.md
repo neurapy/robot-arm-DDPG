@@ -21,8 +21,7 @@ The current configuration solved the task in just 257 episodes!
 
 <table>
   <tr>
-    <td><img src="13-avg.png" width="400" height="260" /></td>
-    <td><img src="13-total.png" width="400" height="260" /></td>
+    <td><img src="output.png" width="400" height="260" /></td>
   </tr>
 </table>
 
