@@ -1,4 +1,4 @@
-## DRL - DQN - Navigation Control
+## DRL - DDPG - Continuous Control
 
 
 #### Agent
@@ -21,7 +21,7 @@ The current configuration solved the task in just 257 episodes!
 
 <table>
   <tr>
-    <td><img src="output.png" width="400" height="260" /></td>
+    <td><img src="assets/output.png" width="400" height="260" /></td>
   </tr>
 </table>
 
